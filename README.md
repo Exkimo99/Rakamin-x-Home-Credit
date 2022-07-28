@@ -1,3 +1,3 @@
 # Rakamin-x-Home-Credit
-Kimo's
-this a project from Rakamin
+this a project from Rakamin x Kominfo Virtual Internship
+Data Scientist at Home Credit
